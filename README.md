@@ -318,7 +318,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Para suporte e dúvidas:
 - Abra uma issue no GitHub
-- Entre em contato com a equipe de desenvolvimento
+- Entre em contato com a equipe de desenvolvimento @Antono-jdev
 
 ## 🔄 Changelog
 
