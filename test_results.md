@@ -56,8 +56,8 @@
 4. Implementação de páginas restantes (Fornecedores, Entradas, Saídas, etc.)
 
 ## Credenciais de Teste
-- Email: admin.teste@s3e.com.br
-- Senha: admin123
+- Email: admin@teste.com.br ou admin@s3e.com.br
+- Senha: admin123 ou teste123 ou password
 
 ## URLs
 - Frontend: http://localhost:5173
