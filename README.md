@@ -261,8 +261,8 @@ npm run build
 ## 🧪 Testes
 
 ### Credenciais de Teste
-- **Email:** admin.teste@s3e.com.br
-- **Senha:** admin123
+- **Email:** admin@s3e.com.br
+- **Senha:** admin123 ou teste123 ou password
 
 ### URLs de Desenvolvimento
 - **Frontend:** http://localhost:5173
@@ -312,7 +312,7 @@ npm run build
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença Aberta.
 
 ## 📞 Suporte
 
